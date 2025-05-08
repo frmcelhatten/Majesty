@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:#F2DEE1;
+}
+canvas {
+  display: block;
+  margin: 2% auto 0px auto; 
+}
+
+h1{
+  color:black;
+  padding-left:50px ;
+}
